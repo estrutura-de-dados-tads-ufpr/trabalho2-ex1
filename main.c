@@ -112,7 +112,7 @@ int main()
         map[row][col] = 1;
     }
 
-    insert_stack(&pos 2, 2);
+    insert_stack(&pos, 2, 2);
     for (int c = 0; c < 2; c++)
     {
         system("clear");
